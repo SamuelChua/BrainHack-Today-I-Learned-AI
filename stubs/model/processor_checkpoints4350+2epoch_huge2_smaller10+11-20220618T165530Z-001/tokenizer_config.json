@@ -1,0 +1,13 @@
+{
+  "bos_token": "<s>",
+  "do_lower_case": false,
+  "eos_token": "</s>",
+  "name_or_path": "/content/drive/MyDrive/Brainhack/wav2vec/processor_checkpoints4350+2epoch_huge2_smaller10+11",
+  "pad_token": "<pad>",
+  "processor_class": "Wav2Vec2Processor",
+  "replace_word_delimiter_char": " ",
+  "special_tokens_map_file": "/content/cache/c2fa5198a7a6c87e4e444afac6d9a7c2d8e45299aaf8966e41d727cc6ae7e04c.9d6cd81ef646692fb1c169a880161ea1cb95f49694f220aced9b704b457e51dd",
+  "tokenizer_class": "Wav2Vec2CTCTokenizer",
+  "unk_token": "<unk>",
+  "word_delimiter_token": "|"
+}
